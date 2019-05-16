@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Hells Helmets
-image: /img/home-jumbotron.jpg
+image: /img/gate-to-hell-952176.jpg
 heading: Protecting the youth
 subheading: Protecting the youth!
 mainpitch:
