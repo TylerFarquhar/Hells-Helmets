@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Hells Helmets
 image: /img/gate-to-hell-952176.jpg
-heading: Protecting the youth
-subheading: Protecting the youth!
+heading: Soul taking comfort
+subheading: Spectacular
 mainpitch:
   title: fgdhdgjhg
   description: >
