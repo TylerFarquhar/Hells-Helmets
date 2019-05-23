@@ -3,7 +3,7 @@ templateKey: index-page
 title: Hells Helmets
 image: /img/gate-to-hell-952176.jpg
 heading: Soul taking comfort
-subheading: Spectacular
+subheading: Spectacular helms for all
 mainpitch:
   title: 'Accessories '
   description: k
