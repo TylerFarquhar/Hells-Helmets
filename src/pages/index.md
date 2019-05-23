@@ -19,7 +19,7 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/coffee-gear.png
   image2:
-    alt: f
+    alt: f4
     image: /img/apple-touch-icon.png
   image3:
     alt: c
