@@ -17,12 +17,12 @@ main:
   description: v
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/favicon-32x32.png
+    image: /img/coffee-gear.png
   image2:
     alt: f
     image: /img/apple-touch-icon.png
   image3:
     alt: c
-    image: /img/favicon-16x16.png
+    image: /img/chemex.jpg
 ---
 
